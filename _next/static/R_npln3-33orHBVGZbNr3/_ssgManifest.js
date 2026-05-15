@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fhistory\u002F[id]","\u002Flearn\u002F[slug]","\u002Freviser\u002Fclasse\u002F[slug]","\u002Freviser\u002Fmolecule\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
